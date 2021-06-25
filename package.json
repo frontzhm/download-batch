@@ -1,0 +1,23 @@
+{
+  "name": "download-batch",
+  "version": "2.0.1",
+  "description": "download resources  batch. 批量下载资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontzhm/download-batch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontzhm/download-batch/issues"
+  },
+  "homepage": "https://github.com/frontzhm/download-batch#readme",
+  "dependencies": {
+    "async": "^3.2.0"
+  }
+}
